@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "logo";
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: "menu";
+    src: url(/fonts/Roboto-Regular.ttf);
+}
